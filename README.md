@@ -46,7 +46,7 @@ Open Jupyter Notebook in the project folder:
 ```bash 
 jupyter notebook
 ```
-Open the CA2.ipynb file in your browser and run the cells one by one.
+### Open the CA2.ipynb file in your browser and run the cells one by one.
 
 ### Key Findings
 * The original dataset has 4601 rows (emails) and 59 columns.

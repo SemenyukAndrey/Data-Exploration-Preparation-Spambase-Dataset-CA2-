@@ -57,6 +57,7 @@ jupyter notebook
 
 * Scaling the data was a very important step. Without it, PCA wouldn't work correctly because the features had completely different ranges.
 
+---
 ## Author
 Andrii Semeniuk  
 Diploma in Data Analytics for Business, CCT College Dublin
